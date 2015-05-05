@@ -65,8 +65,9 @@
     <instance objName="obj_solid" x="80" y="380" name="inst_809C50BC" locked="0" code="" scaleX="1.25" scaleY="7.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="500" y="380" name="inst_D72B9614" locked="0" code="" scaleX="1.25" scaleY="7.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="500" y="100" name="inst_7954C5D3" locked="0" code="" scaleX="1.25" scaleY="7.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_food" x="260" y="140" name="inst_8807FBB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Head" x="180" y="20" name="inst_AA5B7012" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_food" x="220" y="160" name="inst_A5278B49" locked="0" code="" scaleX="1.25" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_food" x="140" y="160" name="inst_66D98679" locked="0" code="" scaleX="0.769230782985687" scaleY="0.714285731315613" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
