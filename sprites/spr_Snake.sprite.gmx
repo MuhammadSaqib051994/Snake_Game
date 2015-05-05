@@ -4,9 +4,9 @@
   <xorig>0</xorig>
   <yorigin>0</yorigin>
   <colkind>0</colkind>
-  <coltolerance>3</coltolerance>
+  <coltolerance>0</coltolerance>
   <sepmasks>-1</sepmasks>
-  <bboxmode>1</bboxmode>
+  <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
   <bbox_right>15</bbox_right>
   <bbox_top>0</bbox_top>
